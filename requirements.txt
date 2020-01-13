@@ -1,0 +1,4 @@
+xlrd==1.2.0
+Pillow==5.4.1   
+python-twitter==3.5
+requests==2.21.0
